@@ -1,7 +1,6 @@
-# hello-world
-The first day I come here
+#Algorithm
 
-Hi,Everbody.
-
-I am Li Xin Zhen,I like taking a walk,going skating and I am alone. Ha ha!
-I always believe that where is a will,there is a way.
+Welcome to my Algtorithm family!
+                                       #算法第一阶段
+##01复杂度
+##02动态数组
