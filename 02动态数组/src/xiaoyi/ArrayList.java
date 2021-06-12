@@ -5,7 +5,7 @@ public class ArrayList<E> {
     private int size;		// 元素的数量
     private E[] elements; 	// 所有的元素
 
-    private static final int DEFAULT_CAPACITY = 10; // 初始容量
+    private static final int DEFAULT_CAPACITY = 2; // 初始容量
     private static final int ELEMENT_NOT_FOUND = -1;
 
     public ArrayList(int capacity) { // 容量小于10一律扩充为10
@@ -73,6 +73,12 @@ public class ArrayList<E> {
         rangeCheck(index);
         return elements[index];
     }
+   /* public int get(int index){
+        if(index<0||index>=size){
+            throw new IndexOutOfBoundsException("Index:"+index+", size:"+size);
+        }
+        return elements[index];
+    }*/
     /**
      * 设置index位置的元素
      * @param index
@@ -122,6 +128,7 @@ public class ArrayList<E> {
             }
         }else{
             for (int i = 0; i < size; i++) {
+                //采用equals目的是设计成更通用，可以让外面这些对象自定义比较的规则，仅此而已
                 if(elements[i].equals(element)) return i;
             }
         }
@@ -135,6 +142,8 @@ public class ArrayList<E> {
         for (int i = 0; i < size; i++) {
             elements[i] = null;
         }
+        //elements=null;
+        //for ()
         size = 0;
     }
     /**
@@ -150,7 +159,8 @@ public class ArrayList<E> {
             newElements[i] = elements[i]; // 拷贝原数组元素到新数组
         }
         elements = newElements;
-        System.out.println("size="+oldCapacity+", 扩容到了"+newCapacity);
+//        System.out.println("size="+oldCapacity+", 扩容到了"+newCapacity);
+       // System.arraycopy();
     }
     /****************封装好的功能函数**************************/
     // 下标越界抛出的异常
