@@ -6,6 +6,29 @@
       <module fileurl="file://$PROJECT_DIR$/01复杂度/01复杂度.iml" filepath="$PROJECT_DIR$/01复杂度/01复杂度.iml" />
       <module fileurl="file://$PROJECT_DIR$/02动态数组/02动态数组.iml" filepath="$PROJECT_DIR$/02动态数组/02动态数组.iml" />
       <module fileurl="file://$PROJECT_DIR$/03链表/03链表.iml" filepath="$PROJECT_DIR$/03链表/03链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04栈/04栈.iml" filepath="$PROJECT_DIR$/04栈/04栈.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05队列/05队列.iml" filepath="$PROJECT_DIR$/05队列/05队列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06二叉搜索树/06二叉搜索树.iml" filepath="$PROJECT_DIR$/06二叉搜索树/06二叉搜索树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07AVL树/07AVL树.iml" filepath="$PROJECT_DIR$/07AVL树/07AVL树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08红黑树/08红黑树.iml" filepath="$PROJECT_DIR$/08红黑树/08红黑树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09集合/09集合.iml" filepath="$PROJECT_DIR$/09集合/09集合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10映射/10映射.iml" filepath="$PROJECT_DIR$/10映射/10映射.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11哈希表/11哈希表.iml" filepath="$PROJECT_DIR$/11哈希表/11哈希表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12堆/12堆.iml" filepath="$PROJECT_DIR$/12堆/12堆.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13优先级队列/13优先级队列.iml" filepath="$PROJECT_DIR$/13优先级队列/13优先级队列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14Trie/14Trie.iml" filepath="$PROJECT_DIR$/14Trie/14Trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15二叉树的非递归遍历/15二叉树的非递归遍历.iml" filepath="$PROJECT_DIR$/15二叉树的非递归遍历/15二叉树的非递归遍历.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16排序/16排序.iml" filepath="$PROJECT_DIR$/16排序/16排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17并查集/17并查集.iml" filepath="$PROJECT_DIR$/17并查集/17并查集.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18图/18图.iml" filepath="$PROJECT_DIR$/18图/18图.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19递归/19递归.iml" filepath="$PROJECT_DIR$/19递归/19递归.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20回溯/20回溯.iml" filepath="$PROJECT_DIR$/20回溯/20回溯.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21贪心/21贪心.iml" filepath="$PROJECT_DIR$/21贪心/21贪心.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22分治/22分治.iml" filepath="$PROJECT_DIR$/22分治/22分治.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23动态规划/23动态规划.iml" filepath="$PROJECT_DIR$/23动态规划/23动态规划.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24布隆过滤器/24布隆过滤器.iml" filepath="$PROJECT_DIR$/24布隆过滤器/24布隆过滤器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25跳表/25跳表.iml" filepath="$PROJECT_DIR$/25跳表/25跳表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26字符串/26字符串.iml" filepath="$PROJECT_DIR$/26字符串/26字符串.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm.iml" />
     </modules>
   </component>
